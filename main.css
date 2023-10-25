@@ -22,7 +22,7 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 16px;
-    background-color: rgb(16, 16, 33);
+    background-color: #121212;
     color:  rgb(236, 134, 151);
     
 }
@@ -51,7 +51,7 @@ section {
     display: inline-flex;
     width: 100vw;
     margin-top: 10px;
-    color:   rgb(16, 16, 33);
+    color:   #121212;
 }
 
 
